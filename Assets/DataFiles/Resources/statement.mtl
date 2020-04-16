@@ -1,0 +1,23 @@
+# Blender MTL File: 'hdfc statement.blend'
+# Material Count: 2
+
+newmtl back
+Ns 66.942138
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl front
+Ns 66.942138
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\work projects\\3d modeling\\classic\\bedroom_classic\\textures\\WhatsApp Image 2019-12-07 at 8.28.49 PM.jpeg
