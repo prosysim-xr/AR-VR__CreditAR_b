@@ -170,7 +170,7 @@ public class S2_CamPlayAndToggle2 : MonoBehaviour
         var dict = Json.Deserialize(j) as Dictionary<string, object>;
         var str1 = Json.Serialize(dict);
         print(str1);
-        StartCoroutine(PostRequest("https://vision.googleapis.com/v1/images:annotate?key=AIzaSyCqZ8RFqkD2B5kEfj0I9ISfE5C_Bvj_rfY", str1));
+        StartCoroutine(PostRequest("https://vision.googleapis.com/v1/images:annotate?key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX", str1));
     }
 
 
